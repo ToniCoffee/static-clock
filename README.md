@@ -1,2 +1,2 @@
 # html-javascript-css
-Repository for html, javascript and css projects
+Clock made using html, javascript and css.
