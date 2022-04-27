@@ -1,6 +1,6 @@
 {
   "name": "clock",
   "version": "1.0.0",
-  "keywords": [],
-  "description": ""
+  "keywords": ["html", "css", "javascript", "clock"],
+  "description": "Clock make with html, css, and javascript"
 }
